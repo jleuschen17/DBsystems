@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../../../Program Files (x86)/sqlite-tools-win32-x86-3360000/sqlite3.exe" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/azuresetup.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt1.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt2.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt3.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt4.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt5.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt6.sql" dialect="AZURE" />
+    <file url="file://$PROJECT_DIR$/hw3/Homework/pt7.sql" dialect="AZURE" />
+    <file url="PROJECT" dialect="SQLite" />
+  </component>
+</project>
