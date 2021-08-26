@@ -1,2 +1,3 @@
-File transfer between PC and iPad
+File transfer between PC and iPad. Self Taught, not an original project
+
 
